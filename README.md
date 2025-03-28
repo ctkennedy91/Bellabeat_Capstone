@@ -409,7 +409,6 @@ The provided data also cannot tell us any underlying medical conditions that may
 ### Sleep per day of week column chart
 
 ![sleep_per_day_of_week](https://github.com/user-attachments/assets/66b211ec-5af1-4b08-95c6-2fd04b667ccd)
-c2.csv)
 
 According to the column chart, FitBit users got the most amount of sleep on Wednesday nights at 16.693%, followed by Tuesday nights at 15.3%, and the third most well-rested night was Thursday at 14.944%. Monday night received the least amount of total sleep at 11.228%.</details> 
 
